@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "title": "Play game",
+      "description": "with  a my friend !",
+      "status": 0,
+      "id": 1
+    },
+    {
+      "title": "Play Football",
+      "description": "i am playing with my friend !",
+      "status": 1,
+      "id": 2
+    },
+    {
+      "title": "Read Book",
+      "description": "i buy The Reactjs book",
+      "status": 2,
+      "id": 4
+    },
+    {
+      "title": "Play Football",
+      "description": "she is playing with my friend in class!",
+      "status": 0,
+      "id": 6
+    },
+    {
+      "title": "Coding Reactjs",
+      "description": "I am coding javarScript everyday",
+      "status": 1,
+      "id": 7
+    },
+    {
+      "title": "Coding a Reactjs",
+      "description": "I am coding javarScript everyday",
+      "status": 2,
+      "id": 8
+    },
+    {
+      "title": "Play a Football",
+      "description": "i am playing with my friend !",
+      "status": 2,
+      "id": 2
+    },
+    {
+      "title": "Learning Python",
+      "description": "everyday I have to learn python",
+      "status": 0,
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "vietnguyen940@gmail.com",
+      "password":"anhvjet96"
+    }
+  
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "price": 500000
+    },
+    {
+      "id": 2,
+      "name": "galaxy",
+      "price": 2600000
+    }
+  ],
+  "auths": [
+    {
+      "id": 1,
+      "email": "quannguyen0220@gmail.com",
+      "password": "Anhvjet96"
+    },
+    {
+      "email": "vietnguyen940@gmail.com",
+      "password": "Anhvjet96",
+      "id": 2
+    }
+  ]
+}
